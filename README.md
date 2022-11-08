@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mertcan Yılmaz</h1>
-<h3 align="center">A Java developer that lives to learn.</h3>
+<h3 align="center">A developer that lives to learn.</h3>
 
-- 🔭 I’m currently working on **my Spring Banking Demo.**
+- 🔭 I’m currently working on **IOS Development.**
 
 - 🌱 I’m currently learning **all i can.**
 
